@@ -7,7 +7,7 @@
 .body{
     height: 1200px;
     color: white;
-border: dotted red;
+    border: dotted red;
 
 }
 .footer{
@@ -15,4 +15,30 @@ height: 100PX;
 top:50%;
 background-color:#333;
 
+}
+.CarnivoreImage img{
+  height: 400px;
+  width: 100%;
+}
+
+.CarnivoreImage{
+  border: 2px solid red;
+  height: 400px;
+  width: 50%;
+  margin-left: 50%;
+}
+
+.Carnivore{
+  border: 2px solid blue;
+  height: 400px;
+  width: 49%;
+  float: left;
+  top: 34.5%;
+  position: absolute;
+  color: black;
+}
+
+.Carnivore p{
+  font-weight: bold;
+  font-size: 20px;
 }
