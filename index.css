@@ -64,3 +64,30 @@ background-color:#333;
   color: black;
   margin-left: 49.5%;
 }
+
+.HybridImage img{
+  height: 389px;
+  width: 100%;
+}
+
+.HybridImage{
+  border: 2px solid red;
+  height: 400px;
+  width: 50%;
+  margin-left: 50%;
+}
+
+.Hybrids{
+  border: 2px solid limegreen;
+  height: 392px;
+  width: 49%;
+  float: left;
+  top: 145%;
+  position: absolute;
+  color: black;
+}
+
+.Hybrids p{
+  font-weight: bold;
+  font-size: 20px;
+}
