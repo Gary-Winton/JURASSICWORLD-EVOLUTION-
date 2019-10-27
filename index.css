@@ -42,3 +42,25 @@ background-color:#333;
   font-weight: bold;
   font-size: 20px;
 }
+
+.HerbivoreImage img{
+  border: 2px solid purple;
+  height: 400px;
+  width: 49.5%;
+}
+
+.Herbivore p{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.Herbivore{
+  border: 2px solid blueviolet;
+  top: 90%;
+  height: 400px;
+  width: 49%;
+  float: left;
+  position: absolute;
+  color: black;
+  margin-left: 49.5%;
+}
