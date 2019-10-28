@@ -1,18 +1,18 @@
 .header{
     height: 400px;
     width: 100%;
-    border: double blue;
+    /* border: double blue; */
     
   }
   .body{
-      height: 2400px;
+      height: 2018px;
       color: red;
-      border: dotted red;
+      /* border: dotted red; */
   
   }
   .footer{
-  height: 100PX;
-  top:50%;
+  height: 75PX;
+  top: 50%;
   background-color:black;
   
   }
@@ -22,7 +22,7 @@
  
  
   .headerImage{
-    border: 2px solid silver;
+    /* border: 2px solid silver; */
     height: 400px;
     width: 600px;
     margin-left: 0px;
@@ -34,18 +34,18 @@
 }
 
 .MatencerosImage{
-  border: 2px solid red;
+  /* border: 2px solid red; */
   height: 400px;
   width: 50%;
   margin-left: 50%;
 }
 
 .Matenceros{
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   height: 400px;
   width: 49%;
   float: left;
-  top: 56%;
+  top: 57%;
   position: absolute;
   color: black;
 }
@@ -58,14 +58,14 @@
 
 
 .MuertaImage img{
-  border: 2px solid purple;
+  /* border: 2px solid purple; */
   height: 400px;
   width: 100%;
 
 }
 
 .MuertaImage{
-  border: 2px solid purple;
+  /* border: 2px solid purple; */
   height: 400px;
   width: 50%;
   margin-left: 0%;
@@ -77,7 +77,7 @@
 }
 
 .Muerta{
-  border: 2px solid gold;
+  /* border: 2px solid gold; */
   top: 112%;
   height: 400px;
   width: 48.5%;
@@ -85,4 +85,88 @@
   position: absolute;
   color: black;
   margin-left: 50%;
+}
+
+.TacanoImage img{
+  height: 400px;
+  width: 100%;
+}
+
+.TacanoImage{
+  /* border: 2px solid red; */
+  height: 400px;
+  width: 49%;
+  margin-left: 51%;
+}
+
+.Tacano{
+  /* border: 2px solid blue; */
+  height: 400px;
+  width: 49%;
+  float: left;
+  top: 167%;
+  position: absolute;
+  color: black;
+}
+
+.Tacano p{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.PenaImage img{
+  /* border: 2px solid purple; */
+  height: 400px;
+  width: 100%;
+
+}
+
+.PenaImage{
+  /* border: 2px solid purple; */
+  height: 400px;
+  width: 50%;
+  margin-left: 0%;
+}
+
+.Pena p{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.Pena{
+  /* border: 2px solid gold; */
+  top: 222%;
+  height: 400px;
+  width: 48.5%;
+  float: left;
+  position: absolute;
+  color: black;
+  margin-left: 50%;
+}
+
+.SornaImage img{
+  height: 400px;
+  width: 100%;
+}
+
+.SornaImage{
+  /* border: 2px solid red; */
+  height: 400px;
+  width: 50%;
+  margin-left: 50%;
+}
+
+.Sorna{
+  /* border: 2px solid blue; */
+  height: 400px;
+  width: 49%;
+  float: left;
+  top: 277%;
+  position: absolute;
+  color: black;
+}
+
+.Sorna p{
+  font-weight: bold;
+  font-size: 20px;
 }
