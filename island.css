@@ -43,7 +43,7 @@
 .Matenceros{
   /* border: 2px solid blue; */
   height: 400px;
-  width: 49%;
+  width: 50%;
   float: left;
   top: 57%;
   position: absolute;
@@ -80,7 +80,7 @@
   /* border: 2px solid gold; */
   top: 112%;
   height: 400px;
-  width: 48.5%;
+  width: 50%;
   float: left;
   position: absolute;
   color: black;
@@ -95,14 +95,14 @@
 .TacanoImage{
   /* border: 2px solid red; */
   height: 400px;
-  width: 49%;
-  margin-left: 51%;
+  width: 50%;
+  margin-left: 50%;
 }
 
 .Tacano{
   /* border: 2px solid blue; */
   height: 400px;
-  width: 49%;
+  width: 50%;
   float: left;
   top: 167%;
   position: absolute;
@@ -137,7 +137,7 @@
   /* border: 2px solid gold; */
   top: 222%;
   height: 400px;
-  width: 48.5%;
+  width: 49%;
   float: left;
   position: absolute;
   color: black;
@@ -159,7 +159,7 @@
 .Sorna{
   /* border: 2px solid blue; */
   height: 400px;
-  width: 49%;
+  width: 50%;
   float: left;
   top: 277%;
   position: absolute;
