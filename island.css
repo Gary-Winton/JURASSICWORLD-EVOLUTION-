@@ -1,0 +1,34 @@
+.header{
+    height: 400px;
+    width: 100%;
+    border: double blue;
+    
+  }
+  .body{
+      height: 1200px;
+      color: white;
+      border: dotted red;
+  
+  }
+  .footer{
+  height: 100PX;
+  top:50%;
+  background-color:black;
+  
+  }
+  .logo{
+    background-color: #009933;
+  }
+ 
+ 
+  .headerImage{
+    border: 2px solid silver;
+    height: 200px;
+    width: 50%;
+    margin-left: 0px;
+  }
+
+  .size:hover{
+    height: 70px;
+    width: 70px;
+}
