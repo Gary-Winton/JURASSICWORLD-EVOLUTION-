@@ -1,7 +1,7 @@
 .header{
-  height: 15rem;
+  height: 400px;
+  width: 100%;
   border: double blue;
-  background-color: #333;
   
 }
 .body{
@@ -33,7 +33,7 @@ background-color:#333;
   height: 400px;
   width: 49%;
   float: left;
-  top: 34.5%;
+  top: 57%;
   position: absolute;
   color: black;
 }
@@ -55,8 +55,8 @@ background-color:#333;
 }
 
 .Herbivore{
-  border: 2px solid blueviolet;
-  top: 90%;
+  border: 2px solid gold;
+  top: 111%;
   height: 400px;
   width: 49%;
   float: left;
@@ -82,7 +82,7 @@ background-color:#333;
   height: 392px;
   width: 49%;
   float: left;
-  top: 145%;
+  top: 166%;
   position: absolute;
   color: black;
 }
@@ -90,4 +90,11 @@ background-color:#333;
 .Hybrids p{
   font-weight: bold;
   font-size: 20px;
+}
+
+.headerImage{
+  border: 2px solid silver;
+  height: 200px;
+  width: 50%;
+  margin-left: 0px;
 }
