@@ -5,8 +5,8 @@
     
   }
   .body{
-      height: 1200px;
-      color: white;
+      height: 2400px;
+      color: red;
       border: dotted red;
   
   }
@@ -23,12 +23,66 @@
  
   .headerImage{
     border: 2px solid silver;
-    height: 200px;
-    width: 50%;
+    height: 400px;
+    width: 600px;
     margin-left: 0px;
   }
 
-  .size:hover{
-    height: 70px;
-    width: 70px;
+.MatencerosImage img{
+  height: 400px;
+  width: 100%;
+}
+
+.MatencerosImage{
+  border: 2px solid red;
+  height: 400px;
+  width: 50%;
+  margin-left: 50%;
+}
+
+.Matenceros{
+  border: 2px solid blue;
+  height: 400px;
+  width: 49%;
+  float: left;
+  top: 56%;
+  position: absolute;
+  color: black;
+}
+
+.Matenceros p{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+
+.MuertaImage img{
+  border: 2px solid purple;
+  height: 400px;
+  width: 100%;
+
+}
+
+.MuertaImage{
+  border: 2px solid purple;
+  height: 400px;
+  width: 50%;
+  margin-left: 0%;
+}
+
+.Muerta p{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.Muerta{
+  border: 2px solid gold;
+  top: 112%;
+  height: 400px;
+  width: 48.5%;
+  float: left;
+  position: absolute;
+  color: black;
+  margin-left: 50%;
 }
