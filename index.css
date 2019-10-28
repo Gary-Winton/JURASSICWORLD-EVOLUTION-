@@ -13,8 +13,11 @@
 .footer{
 height: 100PX;
 top:50%;
-background-color:#333;
+background-color:black;
 
+}
+.logo{
+  background-color: #009933;
 }
 .CarnivoreImage img{
   height: 400px;
@@ -33,7 +36,7 @@ background-color:#333;
   height: 400px;
   width: 49%;
   float: left;
-  top: 57%;
+  top: 75%;
   position: absolute;
   color: black;
 }
@@ -56,7 +59,7 @@ background-color:#333;
 
 .Herbivore{
   border: 2px solid gold;
-  top: 111%;
+  top: 135%;
   height: 400px;
   width: 49%;
   float: left;
@@ -82,7 +85,7 @@ background-color:#333;
   height: 392px;
   width: 49%;
   float: left;
-  top: 166%;
+  top: 194%;
   position: absolute;
   color: black;
 }
