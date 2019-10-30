@@ -5,7 +5,7 @@
     
   }
   .body{
-      height: 1200px;
+      height: 400px;
       color: white;
       border: dotted red;
   
@@ -17,7 +17,7 @@
   
   }
   .logo{
-    background-color: #009933;
+    background-color:lightseagreen;
   }
  
  
@@ -31,4 +31,34 @@
   .size:hover{
     height: 70px;
     width: 70px;
+}
+
+.logo{
+  border: 2px solid red;
+  height: 150px;
+  width: 750px;
+  margin-left: 450px;
+}
+.ps4Logo{
+  border: 2px solid brown;
+  height: 150px;
+  width: 250px;
+}
+
+.steamLogo{
+  border: 2px solid navy;
+  height: 150px;
+  width: 250px;
+  margin-left: 250px;
+  top: 417px;
+  position: absolute;
+}
+
+.xboxLogo{
+  border: 2px solid skyblue;
+  height: 150px;
+  width: 250px;
+  margin-left: 500px;
+  top: 417px;
+  position: absolute;
 }
