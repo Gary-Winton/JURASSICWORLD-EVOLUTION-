@@ -1,13 +1,13 @@
 .header{
     height: 400px;
     width: 100%;
-    border: double blue;
+    /* border: double blue; */
     
   }
   .body{
-      height: 400px;
+      height: 200px;
       color: white;
-      border: dotted red;
+      /* border: dotted red; */
   
   }
   .footer{
@@ -17,12 +17,12 @@
   
   }
   .logo{
-    background-color:lightseagreen;
+    background-color: forestgreen;
   }
  
  
   .headerImage{
-    border: 2px solid silver;
+    /* border: 2px solid silver; */
     height: 200px;
     width: 50%;
     margin-left: 0px;
@@ -33,32 +33,39 @@
     width: 70px;
 }
 
-.logo{
-  border: 2px solid red;
-  height: 150px;
-  width: 750px;
-  margin-left: 450px;
+  .logo{
+  /* border: 2px solid red; */
+  height: 100px;
+  width: 770px;
+  margin-left: 410px;
 }
-.ps4Logo{
-  border: 2px solid brown;
-  height: 150px;
+  .ps4Logo{
+  /* border: 2px solid brown; */
+  height: 100px;
   width: 250px;
 }
 
-.steamLogo{
-  border: 2px solid navy;
-  height: 150px;
+  .steamLogo{
+  /* border: 2px solid navy; */
+  height: 100px;
   width: 250px;
-  margin-left: 250px;
-  top: 417px;
+  margin-left: 260px;
+  top: 408px;
   position: absolute;
 }
 
 .xboxLogo{
-  border: 2px solid skyblue;
-  height: 150px;
+  /* border: 2px solid skyblue; */
+  height: 100px;
   width: 250px;
-  margin-left: 500px;
-  top: 417px;
+  margin-left: 518px;
+  top: 408px;
   position: absolute;
+}
+
+.description{
+  /* border: 2px solid fuchsia; */
+  height: 90px;
+  font-size: 16px;
+  color: black;
 }
