@@ -1,17 +1,17 @@
 .header{
-  height: 400px;
+  height: 25rem;
   width: 100%;
   /* border: double blue; */
   
 }
 .body{
-    height: 1200px;
+    height: 75rem;
     color: white;
     /* border: dotted red; */
 
 }
 .footer{
-height: 75PX;
+height: 4.6875rem;
 top:40%;
 background-color:magenta;
 }
@@ -19,20 +19,20 @@ background-color:magenta;
   background-color: #009933;
 }
 .CarnivoreImage img{
-  height: 400px;
+  height: 25rem;
   width: 100%;
 }
 
 .CarnivoreImage{
   /* border: 2px solid red; */
-  height: 400px;
+  height: 25rem;
   width: 50%;
   margin-left: 50%;
 }
 
 .Carnivore{
   /* border: 2px solid blue; */
-  height: 400px;
+  height: 25rem;
   width: 49%;
   float: left;
   top: 70%;
@@ -42,24 +42,24 @@ background-color:magenta;
 
 .Carnivore p{
   font-weight: bold;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 .HerbivoreImage img{
   /* border: 2px solid purple; */
-  height: 400px;
+  height: 25rem;
   width: 50%;
 }
 
 .Herbivore p{
   font-weight: bold;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 .Herbivore{
   /* border: 2px solid gold; */
   top: 126%;
-  height: 400px;
+  height: 25rem;
   width: 50%;
   float: left;
   position: absolute;
@@ -68,20 +68,20 @@ background-color:magenta;
 }
 
 .HybridImage img{
-  height: 400px;
+  height: 25rem;
   width: 100%;
 }
 
 .HybridImage{
   /* border: 2px solid red; */
-  height: 400px;
+  height: 25rem;
   width: 50%;
   margin-left: 50%;
 }
 
 .Hybrids{
   /* border: 2px solid limegreen; */
-  height: 400px;
+  height: 25rem;
   width: 50%;
   float: left;
   top: 181%;
@@ -91,13 +91,13 @@ background-color:magenta;
 
 .Hybrids p{
   font-weight: bold;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 .headerImage{
   /* border: 2px solid silver; */
-  height: 200px;
+  height: 200rem;
   width: 50%;
-  margin-left: 0px 0px 0px 0px;
+  margin-left: 0rem 0rem 0rem 0rem;
 }
 

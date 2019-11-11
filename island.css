@@ -23,26 +23,26 @@
  
   .headerImage{
     /* border: 2px solid silver; */
-    height: 400px;
-    width: 600px;
+    height: 25rem;
+    width: 37.5rem;
     margin-left: 0px;
   }
 
 .MatencerosImage img{
-  height: 400px;
+  height: 25rem;
   width: 100%;
 }
 
 .MatencerosImage{
   /* border: 2px solid red; */
-  height: 400px;
+  height: 25rem;
   width: 50%;
   margin-left: 50%;
 }
 
 .Matenceros{
   /* border: 2px solid blue; */
-  height: 400px;
+  height: 25rem;
   width: 50%;
   float: left;
   top: 57%;
@@ -52,34 +52,34 @@
 
 .Matenceros p{
   font-weight: bold;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 
 
 .MuertaImage img{
   /* border: 2px solid purple; */
-  height: 400px;
+  height: 25rem;
   width: 100%;
 
 }
 
 .MuertaImage{
   /* border: 2px solid purple; */
-  height: 400px;
+  height: 25rem;
   width: 50%;
   margin-left: 0%;
 }
 
 .Muerta p{
   font-weight: bold;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 .Muerta{
   /* border: 2px solid gold; */
   top: 112%;
-  height: 400px;
+  height: 25rem;
   width: 50%;
   float: left;
   position: absolute;
@@ -88,20 +88,20 @@
 }
 
 .TacanoImage img{
-  height: 400px;
+  height: 25rem;
   width: 100%;
 }
 
 .TacanoImage{
   /* border: 2px solid red; */
-  height: 400px;
+  height: 25rem;
   width: 50%;
   margin-left: 50%;
 }
 
 .Tacano{
   /* border: 2px solid blue; */
-  height: 400px;
+  height: 25rem;
   width: 50%;
   float: left;
   top: 167%;
@@ -111,32 +111,32 @@
 
 .Tacano p{
   font-weight: bold;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 .PenaImage img{
   /* border: 2px solid purple; */
-  height: 400px;
+  height: 25rem;
   width: 100%;
 
 }
 
 .PenaImage{
   /* border: 2px solid purple; */
-  height: 400px;
+  height: 25rem;
   width: 50%;
   margin-left: 0%;
 }
 
 .Pena p{
   font-weight: bold;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 .Pena{
   /* border: 2px solid gold; */
   top: 222%;
-  height: 400px;
+  height: 25rem;
   width: 49%;
   float: left;
   position: absolute;
@@ -145,20 +145,20 @@
 }
 
 .SornaImage img{
-  height: 400px;
+  height: 25rem;
   width: 100%;
 }
 
 .SornaImage{
   /* border: 2px solid red; */
-  height: 400px;
+  height: 25rem;
   width: 50%;
   margin-left: 50%;
 }
 
 .Sorna{
   /* border: 2px solid blue; */
-  height: 400px;
+  height: 25rem;
   width: 50%;
   float: left;
   top: 277%;
@@ -168,5 +168,5 @@
 
 .Sorna p{
   font-weight: bold;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
